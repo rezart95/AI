@@ -9,12 +9,6 @@ Thumbs.db
 *.swo
 *.txt
 
-# Node.js (if you're using it)
-node_modules/
-npm-debug.log
-yarn-debug.log
-yarn-error.log
-
 # Python (if you're using it)
 __pycache__/
 *.py[cod]
@@ -23,10 +17,10 @@ __pycache__/
 venv/
 .venv/
 
-# Jupyter Notebooks (if you're using them)
+# Jupyter Notebooks
 .ipynb_checkpoints
 
-# Data and Model Files (customize as needed)
+# Data and Model Files
 *.model
 *.h5
 *.pkl
