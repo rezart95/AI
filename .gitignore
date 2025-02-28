@@ -1,0 +1,41 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.txt
+
+# Node.js (if you're using it)
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Python (if you're using it)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+.venv/
+
+# Jupyter Notebooks (if you're using them)
+.ipynb_checkpoints
+
+# Data and Model Files (customize as needed)
+*.model
+*.h5
+*.pkl
+*.bin
+
+# Log Files
+*.log
+logs/
+
+# Distribution/Build
+dist/
+build/
