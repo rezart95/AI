@@ -1,1 +1,1 @@
-# AI_Projects
+# AI Books & Research Papers Repository
